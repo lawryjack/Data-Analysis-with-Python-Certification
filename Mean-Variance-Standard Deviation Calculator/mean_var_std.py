@@ -8,9 +8,7 @@ def calculate(list1):
 
     x = np.array(list1);
     array1 = np.split(x, 3);
-    #print(type(calculations));
     array1 = np.array(array1);
-    #print(type(calculations));
 
     #Calculating all math functions
 
