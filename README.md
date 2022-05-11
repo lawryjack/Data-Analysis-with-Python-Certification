@@ -8,3 +8,15 @@ The goal of the Data Analysis with Python Certification is to learn how to read 
 
 ### Project 2: Demographic Data Analyzer
   This challenge is to analyze demographic data from the 1994 census database using the Pandas library.  See the folder for more information.
+
+
+### Project 3: Medical Data Visualizer
+  Will be posted soon
+  
+ 
+### Project 4: Page View Time Series Visualizer
+  Will be posted soon
+  
+ 
+### Project 5: Sea Level Predictor
+  Will be posted soon 
