@@ -11,7 +11,7 @@ The goal of the Data Analysis with Python Certification is to learn how to read 
 
 
 ### Project 3: Medical Data Visualizer
-  Will be posted soon
+  The purpose of this project was to learn how to make calculations from medical data imported from a .csv file.  Matplotlib, seaborn, and pandas were used to work with the dataset values.
   
  
 ### Project 4: Page View Time Series Visualizer
