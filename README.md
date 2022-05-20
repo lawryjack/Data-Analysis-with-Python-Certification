@@ -15,7 +15,7 @@ The goal of the Data Analysis with Python Certification is to learn how to read 
   
  
 ### Project 4: Page View Time Series Visualizer
-  Will be posted soon
+  The purpose of this project was to become familiar with creating different types of plots from the pandas, matplotlib, and seaborn libraries.  These plots include line charts, bar charts, and box plots.  The data visualizations created from the given data set will help understand the patterns in page visits and identify growth.
   
  
 ### Project 5: Sea Level Predictor
