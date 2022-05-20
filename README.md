@@ -19,4 +19,4 @@ The goal of the Data Analysis with Python Certification is to learn how to read 
   
  
 ### Project 5: Sea Level Predictor
-  Will be posted soon 
+  The purpose of this project was to use linear regression and line plots to predict the rise in sea level out to the year 2050.
