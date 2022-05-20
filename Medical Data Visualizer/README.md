@@ -41,6 +41,6 @@ Use the data to complete the following tasks in `medical_data_visualizer.py`:
 
 Unit tests are written under `test_module.py`.
 
-### Outputs
+#### Outputs
 
 See the files catplot.png and heatmap.png which were created from the code in medical_data_visualizer.py.
